@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harikrishna2K
 - 👀 I’m interested in explore new areas.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on advance python platforms.
+- 🌱 I’m currently learning java and spring boot.
+- 💞️ I’m looking to collaborate on advance java and java backend stack projects.
 - 📫 How to reach me ...
 
 <!---
